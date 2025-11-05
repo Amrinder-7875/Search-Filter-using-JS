@@ -53,7 +53,6 @@ Add dark/light theme toggle
 Implement pagination for large datasets
 
  Author
-Your Name
 
 GitHub: Amrinder-7875
 LinkedIn: https://www.linkedin.com/feed/
