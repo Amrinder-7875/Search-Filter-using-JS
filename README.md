@@ -20,10 +20,10 @@ Card Layout: Full-image cards with text overlay at bottom
 Rounded Corners: 30px border radius for modern look
 Glassmorphic Search: Frosted glass effect on search input
 
-Prerequisites
+<img width="1468" height="924" alt="Screenshot 2025-11-05 at 12 22 12 PM" src="https://github.com/user-attachments/assets/a48d28b3-ef03-4b22-8cbf-886f782d5160" />
 
-A modern web browser (Chrome, Firefox, Safari, Edge)
-No build tools or dependencies required!
+<img width="1470" height="927" alt="Screenshot 2025-11-05 at 12 23 29 PM" src="https://github.com/user-attachments/assets/e312ea82-6be1-4f3e-9de5-ec1aa11693f2" />
+
 
  Performance Features
 
